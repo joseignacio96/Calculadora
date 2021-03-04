@@ -10,6 +10,9 @@ package calculadora;
  * @author redes
  */
 public class Calculadora {
+    /** 
+    *Nueva linea de comentario
+    */
     private int num1;
     private int num2;
     
